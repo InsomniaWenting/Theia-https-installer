@@ -113,7 +113,3 @@ then
     echo "取消執行"
     exit 1
 fi
-
-
-#docker run -it -p 10080:10080 -e server=:10080 -e secure=0 -e token=dancat517303 -v /root/Project:/home/project theiaide/theia-https
-
